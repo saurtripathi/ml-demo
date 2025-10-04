@@ -1,0 +1,10 @@
+{
+    "Pclass": 2,
+    "Sex": "female",
+    "Age": 6.0,
+    "SibSp": 0,
+    "Parch": 1,
+    "Fare": 33.0000,
+    "Cabin": "",
+    "Embarked": "S"
+}
